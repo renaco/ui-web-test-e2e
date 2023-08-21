@@ -1,0 +1,510 @@
+[
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317294",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482812,
+      "documentType": "DNI",
+      "documentNumber": "42211545",
+      "phoneNumber": "995545456",
+      "email": "cualquieremail@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84172990
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317296",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482814,
+      "documentType": "DNI",
+      "documentNumber": "10206667",
+      "phoneNumber": "910479026",
+      "email": "cualquieremail@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84173036
+    }
+  },
+  {
+    "traceId": "5d9bd4ae-8571-4a3b-bf88-0e07c97ec970",
+    "results": {
+      "status": "OK",
+      "message": "Succesful operation.",
+      "patient": {
+        "clinicHistoryNumber": "1317297",
+        "fullName": "NAME USER USER SECOND USER",
+        "patientId": 1482815,
+        "documentType": "DNI",
+        "documentNumber": "10598551",
+        "phoneNumber": "910339677",
+        "email": "cualquieremail@loquesea.com",
+        "funder": "**PRIVADO**",
+        "product": "PRIVADO",
+        "copayPlan": "PRIVADO",
+        "integrationId": 84173059
+      }
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317304",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482822,
+      "documentType": "DNI",
+      "documentNumber": "10393830",
+      "phoneNumber": "910389005",
+      "email": "cualquieremail@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84173293
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317305",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482823,
+      "documentType": "DNI",
+      "documentNumber": "10719725",
+      "phoneNumber": "910736639",
+      "email": "cualquieremail@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84173294
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317306",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482824,
+      "documentType": "DNI",
+      "documentNumber": "10214920",
+      "phoneNumber": "910789737",
+      "email": "cualquieremail@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84173475
+    }
+  },
+  {
+    "traceId": "8a556216-e0fd-4a3e-a72a-ae9d08696db0",
+    "results": {
+      "status": "OK",
+      "message": "Succesful operation.",
+      "patient": {
+        "clinicHistoryNumber": "1317341",
+        "fullName": "SAFSAF@SAFASF. SAFSAF SAFSAF",
+        "patientId": 1482861,
+        "documentType": "CARNET SEGURO PRIV",
+        "documentNumber": "97987987987",
+        "phoneNumber": "987654321",
+        "email": "asfsaf@sfasf.com",
+        "funder": "**PRIVADO**",
+        "product": "PRIVADO",
+        "copayPlan": "PRIVADO",
+        "integrationId": 84174966
+      }
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317343",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482863,
+      "documentType": "DNI",
+      "documentNumber": "10354208",
+      "phoneNumber": "910133105",
+      "email": "cualquieremail.10429002@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84174997
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317359",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482880,
+      "documentType": "DNI",
+      "documentNumber": "10687525",
+      "phoneNumber": "910327921",
+      "email": "cualquieremail.10090668@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175232
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317367",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482889,
+      "documentType": "DNI",
+      "documentNumber": "10561346",
+      "phoneNumber": "910810372",
+      "email": "cualquieremail.10752970@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175396
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317371",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482893,
+      "documentType": "DNI",
+      "documentNumber": "10452878",
+      "phoneNumber": "910531566",
+      "email": "cualquieremail.10769775@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175409
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317373",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482895,
+      "documentType": "DNI",
+      "documentNumber": "10416568",
+      "phoneNumber": "910175175",
+      "email": "cualquieremail.10707243@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175425
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317377",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482899,
+      "documentType": "DNI",
+      "documentNumber": "10268126",
+      "phoneNumber": "910638217",
+      "email": "cualquieremail.10068933@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175848
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317380",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482902,
+      "documentType": "DNI",
+      "documentNumber": "10215391",
+      "phoneNumber": "910475478",
+      "email": "cualquieremail.10849798@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84175857
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317395",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482918,
+      "documentType": "DNI",
+      "documentNumber": "10091244",
+      "phoneNumber": "910065447",
+      "email": "cualquieremail.10565398@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84176132
+    }
+  },
+  {
+    "traceId": "849485fb-c1ea-4aa3-aee5-047e635a41a3",
+    "results": {
+      "status": "OK",
+      "message": "Succesful operation.",
+      "patient": {
+        "clinicHistoryNumber": "1317397",
+        "fullName": "NAME USER USER SECOND USER",
+        "patientId": 1482920,
+        "documentType": "DNI",
+        "documentNumber": "10105387",
+        "phoneNumber": "910779149",
+        "email": "cualquieremail.10240795@loquesea.com",
+        "funder": "**PRIVADO**",
+        "product": "PRIVADO",
+        "copayPlan": "PRIVADO",
+        "integrationId": 84176174
+      }
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1317398",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1482921,
+      "documentType": "DNI",
+      "documentNumber": "10789950",
+      "phoneNumber": "910643021",
+      "email": "cualquieremail.10762809@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 84176177
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471691",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1655822,
+      "documentType": "DNI",
+      "documentNumber": "10699681",
+      "phoneNumber": "910811632",
+      "email": "cualquieremail.10335520@loquesea.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100609606
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471753",
+      "fullName": "NAME USER USER SECOND USER",
+      "patientId": 1655884,
+      "documentType": "DNI",
+      "documentNumber": "10481536",
+      "phoneNumber": "910383284",
+      "email": "any-email.10720860@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100613230
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471768",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655899,
+      "documentType": "DNI",
+      "documentNumber": "10280185",
+      "phoneNumber": "910116208",
+      "email": "any-email.10663886@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615484
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471769",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655900,
+      "documentType": "DNI",
+      "documentNumber": "10147801",
+      "phoneNumber": "910656743",
+      "email": "any-email.10668348@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615485
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471773",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655904,
+      "documentType": "DNI",
+      "documentNumber": "10633181",
+      "phoneNumber": "910800431",
+      "email": "fsafasf@safasfasf.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615500
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471775",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655906,
+      "documentType": "DNI",
+      "documentNumber": "10607770",
+      "phoneNumber": "910867831",
+      "email": "any-email.10732542@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615506
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471776",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655907,
+      "documentType": "DNI",
+      "documentNumber": "10161763",
+      "phoneNumber": "910467001",
+      "email": "any-email.10058780@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615507
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471787",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655919,
+      "documentType": "DNI",
+      "documentNumber": "10240143",
+      "phoneNumber": "910092356",
+      "email": "any-email.10359749@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615542
+    }
+  },
+  {
+    "traceId": "d6eef9e7-f26d-4911-b552-838b9b609beb",
+    "results": {
+      "status": "OK",
+      "message": "Succesful operation.",
+      "patient": {
+        "clinicHistoryNumber": "1471787",
+        "fullName": "CARLOS MENENDEZ LOPEZ",
+        "patientId": 1655919,
+        "documentType": "DNI",
+        "documentNumber": "10240143",
+        "phoneNumber": "910092356",
+        "email": "any-email.10359749@whatever.com",
+        "funder": "**PRIVADO**",
+        "product": "PRIVADO",
+        "copayPlan": "PRIVADO",
+        "integrationId": 100615542
+      }
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471792",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655924,
+      "documentType": "DNI",
+      "documentNumber": "10238833",
+      "phoneNumber": "910664119",
+      "email": "any-email.10278248@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615575
+    }
+  },
+  {
+    "traceId": "911876f3-0284-4563-8f27-3bcbf392b7b1",
+    "results": {
+      "status": "OK",
+      "message": "Succesful operation.",
+      "patient": {
+        "clinicHistoryNumber": "1471793",
+        "fullName": "CARLOS MENENDEZ LOPEZ",
+        "patientId": 1655925,
+        "documentType": "DNI",
+        "documentNumber": "10674761",
+        "phoneNumber": "910531148",
+        "email": "any-email.10846180@whatever.com",
+        "funder": "**PRIVADO**",
+        "product": "PRIVADO",
+        "copayPlan": "PRIVADO",
+        "integrationId": 100615576
+      }
+    }
+  },
+  {
+    "status": "OK",
+    "message": "Succesful operation.",
+    "patient": {
+      "clinicHistoryNumber": "1471794",
+      "fullName": "CARLOS MENENDEZ LOPEZ",
+      "patientId": 1655926,
+      "documentType": "DNI",
+      "documentNumber": "10098850",
+      "phoneNumber": "910797403",
+      "email": "any-email.10461331@whatever.com",
+      "funder": "**PRIVADO**",
+      "product": "PRIVADO",
+      "copayPlan": "PRIVADO",
+      "integrationId": 100615577
+    }
+  }
+]

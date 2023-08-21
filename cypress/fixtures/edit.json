@@ -1,0 +1,39 @@
+[
+  {
+    "address": "Ab. los amla 4545",
+    "birthDate": "14/12/1956",
+    "departmentId": "",
+    "districtId": "",
+    "documentNumber": "10699681",
+    "email": "araafs@afsaf.com",
+    "firstSurname": "RALPHDSS",
+    "gender": 2,
+    "name": "HUALLAGAAA",
+    "nationalityId": 2,
+    "phoneNumber": "966966966",
+    "phoneNumber2": "556565656",
+    "provinceId": "",
+    "secondSurname": "MATARATIAAA",
+    "patientId": "1655822"
+  },
+  {
+    "address": "Av. los desamparados de la calle enzkk4p",
+    "birthDate": "20/05/1950",
+    "classificationId": 0,
+    "departmentId": 5,
+    "districtId": 88,
+    "documentNumber": "10279363",
+    "documentTypeId": 1,
+    "email": "any-email.10600249@whatever.com",
+    "firstSurname": "MENENDEZ",
+    "gender": 1,
+    "maritalStatus": 5,
+    "name": "CARLOS",
+    "nationalityId": 2,
+    "patientId": 1655898,
+    "phoneNumber": "910719662",
+    "phoneNumber2": "996666456",
+    "provinceId": 32,
+    "secondSurname": "LOPEZ"
+  }
+]

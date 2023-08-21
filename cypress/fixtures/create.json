@@ -1,0 +1,20 @@
+[
+  {
+    "address": "Av. los desamparados ",
+    "birthDate": "14/10/1981",
+    "departmentId": 5,
+    "districtId": 291,
+    "documentNumber": "10452878",
+    "documentTypeId": 1,
+    "email": "cualquieremail.10769775@loquesea.com",
+    "firstSurname": "USER",
+    "gender": 2,
+    "maritalStatus": 5,
+    "name": "NAME USER",
+    "nationalityId": 2,
+    "phoneNumber": "910531566",
+    "phoneNumber2": "995245456",
+    "provinceId": 32,
+    "secondSurname": "SECOND USER"
+  }
+]
