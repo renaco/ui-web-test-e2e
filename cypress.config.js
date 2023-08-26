@@ -1,4 +1,4 @@
-require('dotenv').config()
+require("dotenv").config();
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
@@ -9,7 +9,7 @@ module.exports = defineConfig({
   },
   env: {
     url: process.env.URL,
-    user: process.env.USER,
+    user: process.env.USER_NAME,
     password: process.env.PASSWORD,
-  }
+  },
 });
